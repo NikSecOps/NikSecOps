@@ -2,9 +2,7 @@
 # Hello, I'm NIK LOBO
 <a href="https://www.linkedin.com/in/nik-lobo-926179191/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+ I’m an Information Technology graduate with a Postgraduate Diploma in Cybersecurity. Passionate about defending digital infrastructure, I’m driven to solve real-world security challenges. I specialize in threat detection, incident response, and SOC operations—and I’m ready to bring that energy to a Tier 1 SOC Analyst role.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
