@@ -2,7 +2,7 @@
 # Hello, I'm NIKHIL LOBO
 <a href="https://www.linkedin.com/in/nik-lobo-926179191/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
- I’m an Information Technology graduate with a Postgraduate Diploma in Cybersecurity. Passionate about defending digital infrastructure, I’m driven to solve real-world security challenges. I specialize in threat detection, incident response, and SOC operations—and I’m ready to bring that energy to a Tier 1 SOC Analyst role.
+ I’m an Information Technology graduate with a Postgraduate Diploma in Cybersecurity and Project Management - Information Technology. Passionate about defending digital infrastructure, I’m driven to solve real-world security challenges. I specialize in threat detection, incident response, and SOC operations—and I’m ready to bring that energy to a Tier 1 SOC Analyst role.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
