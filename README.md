@@ -44,6 +44,15 @@ My journey in Information Technologygy has led me to develop a passion for cyber
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+## 🔬 Published Research
+
+📚 **Virtual Reality Campus Tour Experience**  
+*Published in IEEE Xplore – 2023*
+
+🔗 [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/10104840)  
+📊 [Metrics & Citations](https://ieeexplore.ieee.org/document/10104840/metrics)  
+📄 [BibTeX Citation](https://doi.org/10.1109/ICIICT57330.2023.10104840)
+
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
