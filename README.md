@@ -47,7 +47,7 @@ My journey in Information Technologygy has led me to develop a passion for cyber
 ## 🔬 Published Research
 
 📚 **Virtual Reality Campus Tour Experience**  
-*Published in IEEE Xplore – 2023*
+*Published in IEEE Xplore – 2019*
 
 🔗 [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/10104840)  
 📊 [Metrics & Citations](https://ieeexplore.ieee.org/document/10104840/metrics)  
