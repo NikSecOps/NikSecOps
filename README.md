@@ -24,6 +24,7 @@ My journey in Information Technologygy has led me to develop a passion for cyber
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+[![Seneca – Project Management (IT)](https://img.shields.io/badge/SENECA-Project%20Mgmt%20(IT)-d32f2f?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://www.senecacollege.ca/programs/fulltime/PMC.html)
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
