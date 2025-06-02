@@ -14,7 +14,7 @@ My journey in Information Technologygy has led me to develop a passion for cyber
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SCADA Risk Assessment & Incident Response Design          | <a href="https://github.com/NikSecOps/seascope-ir-playbook/blob/main/README.md">Doc</a>|
+| Architecture Documentation & Playbook Writing | <a href="https://github.com/NikSecOps/seascope-ir-playbook/blob/main/README.md">SCADA Risk Assessment & Incident Response Playbook</a>|
 | Digital Forensics and Incident Responce | <a href="https://google.com">Autopsy Report</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
