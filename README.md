@@ -54,7 +54,10 @@ My journey in Information Technologygy has led me to develop a passion for cyber
 📄 [BibTeX Citation](https://doi.org/10.1109/ICIICT57330.2023.10104840)
 
 ## Certifications
-
+<div style="margin-bottom: 10px;">
+    <img src="https://img.shields.io/badge/PROJECT%20MANAGEMENT%20(IT)-SENECA%20COLLEGE-d32f2f?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+    <img src="https://img.shields.io/badge/CYBERSECURITY%20DIPLOMA-YORK%20UNIVERSITY-1565c0?style=for-the-badge&logo=protonvpn&logoColor=white" />
+</div>
 <div>
 <img src="https://img.shields.io/badge/Project_Management_(IT)-Seneca_College-d32f2f?style=for-the-badge&logo=googleclassroom&logoColor=white" />
 <img src="https://img.shields.io/badge/Cybersecurity_Diploma-York_University-1565c0?style=for-the-badge&logo=protonvpn&logoColor=white" /> 
