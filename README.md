@@ -23,11 +23,6 @@ My journey in Information Technologygy has led me to develop a passion for cyber
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-### Certifications
-<div>
-    <img src="https://img.shields.io/badge/Project_Management_(IT)-Seneca_College-d32f2f?style=for-the-badge&logo=googleclassroom&logoColor=white" />
-    <img src="https://img.shields.io/badge/Cybersecurity_Diploma-York_University-1565c0?style=for-the-badge&logo=protonvpn&logoColor=white" />
-</div>
 
 ### Network
 <div>
@@ -61,6 +56,9 @@ My journey in Information Technologygy has led me to develop a passion for cyber
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+ ### Certifications
+<img src="https://img.shields.io/badge/Project_Management_(IT)-Seneca_College-d32f2f?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity_Diploma-York_University-1565c0?style=for-the-badge&logo=protonvpn&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
