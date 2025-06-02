@@ -57,12 +57,14 @@ My journey in Information Technologygy has led me to develop a passion for cyber
 
 <div>
 <img src="https://img.shields.io/badge/Project_Management_(IT)-Seneca_College-d32f2f?style=for-the-badge&logo=googleclassroom&logoColor=white" />
-<img src="https://img.shields.io/badge/Cybersecurity_Diploma-York_University-1565c0?style=for-the-badge&logo=protonvpn&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+ </div>
+ <div>
+<img src="https://img.shields.io/badge/Cybersecurity_Diploma-York_University-1565c0?style=for-the-badge&logo=protonvpn&logoColor=white" />  </div>
+ </div><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> </div>
+ </div><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /> </div>
+ </div><img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /> </div>
+ </div><img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" /> </div>
+ </div><img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> 
 </div>
 
 ## Projects
