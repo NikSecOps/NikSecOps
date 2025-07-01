@@ -5,12 +5,10 @@
  I’m an Information Technology graduate with a Postgraduate Diploma in Cybersecurity and Project Management - Information Technology. Passionate about defending digital infrastructure, I’m driven to solve real-world security challenges. I specialize in threat detection, incident response, and SOC operations—and I’m ready to bring that energy to a Tier 1 SOC Analyst role.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in Information Technologygy has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
