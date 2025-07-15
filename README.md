@@ -14,7 +14,7 @@ My journey in Information Technologygy has led me to develop a passion for cyber
 |-----------------------------------------------|----------------------------|
 | Architecture Documentation & Playbook Writing | <a href="https://github.com/NikSecOps/seascope-ir-playbook/blob/main/README.md">SCADA Risk Assessment & Incident Response Playbook</a>|
 | Digital Forensics and Incident Responce | <a href="https://github.com/NikSecOps/DFIR-Autopsy-Analysis/blob/main/README.md">Autopsy Report</a>|
-| Active Directory         | SOC Automation Lab|
+| Active Directory         | Active Directory with over 100 users with GP,OUs and policies|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | TheHive|
 | Scripting and Automation for Threat Mitigation | Automation|
