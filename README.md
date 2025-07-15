@@ -5,8 +5,7 @@
 I’m an Information Technology graduate with a Postgraduate Diploma in Cybersecurity and Project Management - Information Technology. With hands-on experience in SOC operations, threat detection, and incident response, I’ve worked on real-world cybersecurity scenarios including email phishing investigations, log analysis, and Active Directory hardening
 
 ## Objective
-
-My journey in Information Technologygy has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Seeking a cybersecurity or IT analyst role where I can leverage my background in threat detection, SOC operations, and project management to support secure infrastructure, enhance incident response, and contribute to cross-functional IT initiatives.
 
 ## Skills
 
