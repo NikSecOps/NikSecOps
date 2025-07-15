@@ -16,8 +16,8 @@ My journey in Information Technologygy has led me to develop a passion for cyber
 | Digital Forensics and Incident Responce | <a href="https://github.com/NikSecOps/DFIR-Autopsy-Analysis/blob/main/README.md">Autopsy Report</a>|
 | Active Directory         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Case Management with TheHive                  | TheHive|
+| Scripting and Automation for Threat Mitigation | Automation|
 
 ### Network
 <div>
